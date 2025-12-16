@@ -106,7 +106,7 @@ hugo
 ## Deployment
 
 - Push to main branch
-- GitHub Actions / Cloudflare Pages auto-deploys
+- GitHub Actions auto-deploys
 - Site live at https://dontbeanazi.cutie.zone
 
 ## Legal
