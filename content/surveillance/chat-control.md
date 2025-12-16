@@ -10,13 +10,13 @@ related: ["patriot-act", "earn-it-act", "uk-online-safety-bill"]
 categories: ["surveillance"]
 weight: 10  # High priority for visibility
 sources:
-  - url: "https://www.patrick-breyer.de/en/posts/chat-control/"
+  - url: "https://web.archive.org/web/20251012104722/https://www.patrick-breyer.de/en/posts/chat-control/"
     title: "Patrick Breyer - Chat Control Overview"
     date: "2025-12-15"
-  - url: "https://edri.org/our-work/chat-control-what-is-actually-going-on/"
+  - url: "https://web.archive.org/web/20251012202847/https://edri.org/our-work/chat-control-what-is-actually-going-on/"
     title: "EDRi - What is actually going on?"
     date: "2025-09-24"
-  - url: "https://tuta.com/blog/chat-control-criticism"
+  - url: "https://web.archive.org/web/20251012154416/https://tuta.com/blog/chat-control-criticism"
     title: "Tuta - Huge Victory but Age Verification Added"
     date: "2025-12-06"
 ---

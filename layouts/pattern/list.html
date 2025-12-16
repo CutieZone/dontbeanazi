@@ -1,0 +1,57 @@
+{{- define "main" -}}
+
+{{- if not .IsHome | and .Title }}
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <div class="post-description">
+    {{ .Description | markdownify }}
+  </div>
+  {{- end }}
+</header>
+{{- end }}
+
+{{- if .Content }}
+<div class="post-content">
+  {{ .Content }}
+</div>
+{{- end }}
+
+<h2>All Patterns</h2>
+
+{{- $patterns := dict }}
+{{- range .Site.RegularPages }}
+  {{- if .Params.patterns }}
+    {{- range .Params.patterns }}
+      {{- $current := . }}
+      {{- if isset $patterns $current }}
+        {{- $patterns = merge $patterns (dict $current (add (index $patterns $current) 1)) }}
+      {{- else }}
+        {{- $patterns = merge $patterns (dict $current 1) }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+{{- if $patterns }}
+<table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
+  <thead>
+    <tr style="border-bottom: 2px solid #333;">
+      <th style="text-align: left; padding: 10px; border-bottom: 2px solid #333;">Pattern</th>
+      <th style="text-align: left; padding: 10px; border-bottom: 2px solid #333;">Count</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{- range $pattern, $count := $patterns }}
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 10px;">{{ $pattern }}</td>
+      <td style="padding: 10px; text-align: center;">{{ $count }}</td>
+    </tr>
+    {{- end }}
+  </tbody>
+</table>
+{{- else }}
+<p>No patterns found in content.</p>
+{{- end }}
+
+{{- end }}

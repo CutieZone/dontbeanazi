@@ -14,14 +14,14 @@ This project documents authoritarian patterns in real-time. We need contributors
 
 ## Before You Contribute
 
-**Requirements:**
+### Requirements
 - Everything must be **sourced** - no exceptions
 - Minimum 3 reliable sources per entry
 - Archive.org or equivalent links for all sources (in case they disappear)
 - Neutral, factual language - document, don't editorialize
 - Follow existing entry format
 
-**Good sources:**
+### Good sources
 - News organizations with editorial standards
 - Government documents
 - Academic research
@@ -29,7 +29,7 @@ This project documents authoritarian patterns in real-time. We need contributors
 - Direct statements from officials
 - Legal documents and court filings
 
-**Bad sources:**
+### Bad sources
 - Anonymous blogs
 - Unsourced claims
 - Social media posts (unless from verified officials)
@@ -126,7 +126,7 @@ Concrete actions people can take:
 
 ## Writing Guidelines
 
-**Do:**
+### Do
 - Use clear, direct language
 - Document facts with sources
 - Show the pattern without editorializing
@@ -134,7 +134,7 @@ Concrete actions people can take:
 - Make it accessible to general readers
 - Include action items
 
-**Don't:**
+### Don't
 - Editorialize or inject opinion
 - Make unsourced claims
 - Use inflammatory language (the facts are inflammatory enough)
@@ -142,11 +142,16 @@ Concrete actions people can take:
 - Forget the human impact
 - Leave out what people can do about it
 
-**Tone:**
+### Tone
 - Factual but not dry
 - Direct but not sensational
 - Angry is fine if it's directed at the right targets
 - Remember: we're documenting atrocities, not writing academic papers
+
+### LLM Usage
+While we do allow usage of LLMs, the final results *must* pass human review.
+
+It has been shown that LLMs, if given the tools (web search), can act as a good starting point for this kind of content. However, human-written content is preferable.
 
 ## Submission Process
 

@@ -10,34 +10,34 @@ related: ["corporate-pollution", "environmental-injustice", "data-center-expansi
 categories: ["corporate", "environmental"]
 weight: 75
 sources:
-  - url: "https://www.selc.org/news/resistance-against-elon-musks-xai-facility-in-south-memphis-gets-stronger/"
+  - url: "https://web.archive.org/web/20251007214259/https://www.selc.org/news/resistance-against-elon-musks-xai-facility-in-south-memphis-gets-stronger/"
     title: "Southern Environmental Law Center - xAI facility is using gas turbines in South Memphis"
     date: "2025-03-01"
-  - url: "https://time.com/7308925/elon-musk-memphis-ai-data-center/"
+  - url: "https://web.archive.org/web/20250908135800/https://time.com/7308925/elon-musk-memphis-ai-data-center/"
     title: "TIME - Inside Memphis' Battle Against Elon Musk's xAI Data Center"
     date: "2025-08-15"
-  - url: "https://tennesseelookout.com/2025/07/07/a-billionaire-an-ai-supercomputer-toxic-emissions-and-a-memphis-community-that-did-nothing-wrong/"
+  - url: "https://web.archive.org/web/20250822200042/https://tennesseelookout.com/2025/07/07/a-billionaire-an-ai-supercomputer-toxic-emissions-and-a-memphis-community-that-did-nothing-wrong/"
     title: "Tennessee Lookout - A billionaire, an AI supercomputer, toxic emissions"
     date: "2025-07-07"
-  - url: "https://naacp.org/articles/elon-musks-xai-threatened-lawsuit-over-air-pollution-memphis-data-center-filed-behalf"
+  - url: "https://web.archive.org/web/20251017015500/https://naacp.org/articles/elon-musks-xai-threatened-lawsuit-over-air-pollution-memphis-data-center-filed-behalf"
     title: "NAACP - xAI threatened with lawsuit over air pollution from Memphis data center"
     date: "2025-06-20"
-  - url: "https://www.theguardian.com/technology/2025/apr/24/elon-musk-xai-memphis"
+  - url: "https://web.archive.org/web/20251012222902/https://www.theguardian.com/technology/2025/apr/24/elon-musk-xai-memphis"
     title: "The Guardian - Elon Musk's xAI accused of pollution over Memphis supercomputer"
     date: "2025-04-24"
-  - url: "https://gasoutlook.com/analysis/xai-data-centre-emits-plumes-of-pollution-new-video-shows/"
+  - url: "https://web.archive.org/web/20250819042235/https://gasoutlook.com/analysis/xai-data-centre-emits-plumes-of-pollution-new-video-shows/"
     title: "Gas Outlook - xAI data centre emits plumes of pollution, new video shows"
     date: "2025-06-13"
-  - url: "https://insideclimatenews.org/news/17072025/elon-musk-xai-data-center-gas-turbines-memphis/"
+  - url: "https://web.archive.org/web/20251009080723/https://insideclimatenews.org/news/17072025/elon-musk-xai-data-center-gas-turbines-memphis/"
     title: "Inside Climate News - Elon Musk's Colossus operated gas turbines without appropriate permits"
     date: "2025-07-17"
-  - url: "https://www.sehn.org/sehn/2025/8/14/data-centers-and-the-water-crisis"
+  - url: "https://web.archive.org/web/20251216100444/https://www.sehn.org/sehn/2025/8/14/data-centers-and-the-water-crisis"
     title: "Science and Environmental Health Network - Data Centers and the Water Crisis"
     date: "2025-08-14"
-  - url: "https://www.foodandwaterwatch.org/2025/04/09/artificial-intelligence-water-climate/"
+  - url: "https://web.archive.org/web/20250818130823/https://www.foodandwaterwatch.org/2025/04/09/artificial-intelligence-water-climate//"
     title: "Food and Water Watch - Artificial Intelligence: Big Tech's Big Threat to Our Water and Climate"
     date: "2025-04-09"
-  - url: "https://www.protectouraquifer.org/issues/xai-supercomputer"
+  - url: "https://web.archive.org/web/20251016125044/https://www.protectouraquifer.org/issues/xai-supercomputer"
     title: "Protect Our Aquifer - xAI Supercomputer"
     date: "2025-01-01"
 ---
@@ -253,5 +253,7 @@ Because this is happening right now, not in history books. And because recognizi
 ---
 
 **Last updated**: 2025-12-15
+
 **Status**: Ongoing - xAI expanding operations; lawsuits pending; community resistance continuing
+
 **Verified**: Information current as of December 2025; legal challenges ongoing

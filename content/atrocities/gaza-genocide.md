@@ -10,10 +10,10 @@ related: ["uyghur-camps", "rohingya-persecution", "historical-genocides"]
 categories: ["atrocities"]
 weight: 100  # Maximum priority - ongoing atrocity
 sources:
-  - url: "https://www.ohchr.org/en/press-releases/2024/11/un-special-committee-finds-israels-warfare-methods-gaza-consistent-genocide"
+  - url: "https://web.archive.org/web/20250928174850/https://www.ohchr.org/en/press-releases/2024/11/un-special-committee-finds-israels-warfare-methods-gaza-consistent-genocide"
     title: "UN Special Committee finds Israel's methods consistent with genocide"
     date: "2024-11-14"
-  - url: "https://www.aljazeera.com/news/longform/2023/10/9/israel-hamas-war-in-maps-and-charts-live-tracker"
+  - url: "https://web.archive.org/web/20251215152414/https://www.aljazeera.com/news/longform/2023/10/9/israel-hamas-war-in-maps-and-charts-live-tracker"
     title: "Al Jazeera - Gaza war live tracker"
     date: "2025-12-15"
 ---

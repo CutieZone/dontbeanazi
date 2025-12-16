@@ -10,20 +10,21 @@ related: ["japanese-internment", "operation-wetback", "nazi-roundups"]
 categories: ["targeting-marginalized", "atrocities"]
 weight: 95
 sources:
-  - url: "https://www.thetrace.org/2025/12/immigration-ice-shootings-guns-tracker/"
+  - url: "https://web.archive.org/web/20251216101304/https://www.thetrace.org/2025/12/immigration-ice-shootings-guns-tracker/"
     title: "The Trace - Tracking gun incidents in immigration raids"
     date: "2025-12-12"
-  - url: "https://www.cnn.com/2025/12/05/us/cities-prepare-ice-immigration-raids"
+  - url: "https://web.archive.org/web/20251216101345/https://www.cnn.com/2025/12/05/us/cities-prepare-ice-immigration-raids"
     title: "CNN - Cities targeted by immigration crackdown"
     date: "2025-12-05"
-  - url: "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/"
+  - url: "https://web.archive.org/web/20251216101401/https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/"
     title: "Prison Policy Initiative - ICE arrest data analysis"
     date: "2025-12-11"
 ---
 
 ## The Pitch
 
-**How it was sold:**
+It was sold to us as
+
 - "We're removing dangerous criminals"
 - "Protecting American workers"
 - "Securing the border"
@@ -32,9 +33,9 @@ sources:
 
 ## The Reality
 
-**What's actually happening:**
+But what's actually happening?
 
-**The numbers:**
+### The Numbers
 - Over 1,000 ICE arrests per day at peak
 - 65% of detained people have NO criminal convictions
 - 93% have no violent convictions
@@ -42,7 +43,7 @@ sources:
 - 30,000+ students absent from Charlotte schools (20% of enrollment) due to fear
 - At least 22 gun incidents including 9 shootings by federal agents
 
-**The tactics:**
+### The Tactics
 - Military-style raids: Black Hawk helicopters, armed agents rappelling into neighborhoods
 - Agents targeting people based on "how they look" (Border Patrol Chief Gregory Bovino openly admitted this)
 - Shooting at people documenting raids (teaching assistant shot 5 times while warning neighbors)
@@ -52,14 +53,14 @@ sources:
 - Agents wearing masks to hide identity
 - Using assault rifles on unarmed civilians
 
-**Cities targeted:**
+### Cities Targeted
 - Los Angeles (Operation with National Guard and Marines)
 - Chicago (Operation Midway Blitz - 3,000 arrests)
 - Charlotte
 - New Orleans (Operation Catahoula Crunch)
 - Minneapolis (targeting Somali community after Trump's racist tirade)
 
-**The human cost:**
+### The Human Cost
 - Families separated
 - American citizens arrested and held
 - Children missing parents
@@ -68,7 +69,7 @@ sources:
 - Schools emptied
 - People afraid to go to work, hospitals, anywhere
 
-**Who's actually being arrested:**
+### Who's Actually Being Arrested?
 - Not "dangerous criminals" - mostly people with no criminal record
 - Long-time residents with US-born children
 - Refugees with legal status
@@ -76,12 +77,12 @@ sources:
 - Workers at car washes, construction sites, restaurants
 - Even Bhutanese refugees (fleeing persecution) detained in Pennsylvania
 
-**Resource diversion:**
+### Resource Diversion
 - 25,000+ federal, state, local law enforcement officers diverted from actual jobs
 - Nearly 50% of FBI agents in major offices reassigned from investigating actual crimes
 - Immigration cases tripled in courts while drug and fraud cases dropped 27% and 17%
 
-**Violence and impunity:**
+### Violence and Impunity
 - Agents shooting at people documenting raids
 - Agents shooting people driving away from traffic stops
 - Holding people at gunpoint in their homes
@@ -93,14 +94,14 @@ sources:
 
 **Historical parallels:**
 
-**Japanese-American Internment (1942):**
+### Japanese-American Internment (1942)
 - "National security" justification
 - Targeting based on ethnicity/national origin
 - Families torn apart
 - Constitutional rights suspended
 - Later recognized as shameful mistake
 
-**Nazi Germany roundups (1930s-40s):**
+### Nazi Germany roundups (1930s-40s)
 - "Protecting" the nation from internal threats
 - Door-to-door raids
 - Papers please / show me your documents
@@ -108,14 +109,14 @@ sources:
 - Systematic targeting of minority populations
 - Public spectacle meant to terrorize
 
-**Operation Wetback (1954):**
+### Operation Wetback (1954)
 - Mass deportation program in US
 - Racial profiling
 - Brutal tactics
 - Many US citizens deported
 - Later condemned as human rights violation
 
-**The playbook:**
+### The Playbook
 1. Dehumanize the target group ("illegal aliens," "criminals," "invaders")
 2. Manufacture crisis ("invasion," "emergency")
 3. Claim you're only targeting "the bad ones"
