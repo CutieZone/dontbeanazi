@@ -47,7 +47,7 @@ dontbeanazi/
 ## Tech Stack
 
 - **Static Site Generator**: Hugo
-- **Hosting**: GitHub Pages / Cloudflare Pages
+- **Hosting**: GitHub Pages
 - **Version Control**: Git (transparent, accepts PRs)
 - **Content**: Markdown files with YAML frontmatter
 
