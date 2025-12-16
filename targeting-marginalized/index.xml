@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Targeting Marginalized Communities on Don&#39;t Be A Nazi - A Lyssieth Project</title>
     <link>https://dontbeanazi.cutie.zone/targeting-marginalized/</link>
     <description>Recent content in Targeting Marginalized Communities on Don&#39;t Be A Nazi - A Lyssieth Project</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <atom:link href="https://dontbeanazi.cutie.zone/targeting-marginalized/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,27 @@
       <link>https://dontbeanazi.cutie.zone/targeting-marginalized/ice-raids/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dontbeanazi.cutie.zone/targeting-marginalized/ice-raids/</guid>
-      <description>&lt;h2 id=&#34;the-pitch&#34;&gt;The Pitch&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;How it was sold:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;ldquo;We&amp;rsquo;re removing dangerous criminals&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;Protecting American workers&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;Securing the border&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;Targeting violent gang members&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;Making America safe again&amp;rdquo;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;the-reality&#34;&gt;The Reality&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;What&amp;rsquo;s actually happening:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;The numbers:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Over 1,000 ICE arrests per day at peak&lt;/li&gt;&#xA;&lt;li&gt;65% of detained people have NO criminal convictions&lt;/li&gt;&#xA;&lt;li&gt;93% have no violent convictions&lt;/li&gt;&#xA;&lt;li&gt;Only 7% of detainees convicted of violent crimes (down from 10% under Biden)&lt;/li&gt;&#xA;&lt;li&gt;30,000+ students absent from Charlotte schools (20% of enrollment) due to fear&lt;/li&gt;&#xA;&lt;li&gt;At least 22 gun incidents including 9 shootings by federal agents&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;The tactics:&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;the-pitch&#34;&gt;The Pitch&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;How it was sold:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;We&amp;rsquo;re removing dangerous criminals&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Protecting American workers&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Securing the border&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Targeting violent gang members&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Making America safe again&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;the-reality&#34;&gt;The Reality&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;What&amp;rsquo;s actually happening:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The numbers:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Over 1,000 ICE arrests per day at peak&lt;/li&gt;
+&lt;li&gt;65% of detained people have NO criminal convictions&lt;/li&gt;
+&lt;li&gt;93% have no violent convictions&lt;/li&gt;
+&lt;li&gt;Only 7% of detainees convicted of violent crimes (down from 10% under Biden)&lt;/li&gt;
+&lt;li&gt;30,000+ students absent from Charlotte schools (20% of enrollment) due to fear&lt;/li&gt;
+&lt;li&gt;At least 22 gun incidents including 9 shootings by federal agents&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;The tactics:&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

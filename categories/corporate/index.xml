@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Corporate on Don&#39;t Be A Nazi - A Lyssieth Project</title>
     <link>https://dontbeanazi.cutie.zone/categories/corporate/</link>
     <description>Recent content in Corporate on Don&#39;t Be A Nazi - A Lyssieth Project</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <atom:link href="https://dontbeanazi.cutie.zone/categories/corporate/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,19 @@
       <link>https://dontbeanazi.cutie.zone/corporate/xai-memphis-pollution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dontbeanazi.cutie.zone/corporate/xai-memphis-pollution/</guid>
-      <description>&lt;h2 id=&#34;the-pitch&#34;&gt;The Pitch&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;How it was sold to Memphis:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;ldquo;Economic development for a historically underserved area&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;Thousands of jobs coming to Memphis&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;Tax revenue to reinvest in the community&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;State-of-the-art AI technology advancement&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;Elon Musk&amp;rsquo;s company choosing Memphis as the tech capital&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;AI innovation is inevitable, Memphis should benefit&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;The world&amp;rsquo;s largest supercomputer - a point of pride&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;Memphis Mayor and Chamber of Commerce promoted it as progress&amp;rdquo;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;What official statements claimed:&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;the-pitch&#34;&gt;The Pitch&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;How it was sold to Memphis:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Economic development for a historically underserved area&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Thousands of jobs coming to Memphis&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Tax revenue to reinvest in the community&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;State-of-the-art AI technology advancement&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Elon Musk&amp;rsquo;s company choosing Memphis as the tech capital&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;AI innovation is inevitable, Memphis should benefit&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;The world&amp;rsquo;s largest supercomputer - a point of pride&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Memphis Mayor and Chamber of Commerce promoted it as progress&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What official statements claimed:&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
