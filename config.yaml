@@ -30,15 +30,18 @@ menu:
     - name: "Targeting Marginalized"
       url: "/targeting-marginalized/"
       weight: 3
+    - name: "Corporate Malfeasance"
+      url: "/corporate/"
+      weight: 4
     - name: "All Entries"
       url: "/pages/"
-      weight: 4
+      weight: 5
     - name: "About"
       url: "/about/"
-      weight: 5
+      weight: 6
     - name: "Contribute"
       url: "/contribute/"
-      weight: 6
+      weight: 7
 outputs:
   home: ["HTML", "RSS", "JSON"]
   section: ["HTML", "RSS"]
