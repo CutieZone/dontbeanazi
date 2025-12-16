@@ -1,0 +1,8 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Don't Be A Nazi - A Lyssieth Project",
+  "description": "A documentation of policies, laws, and actions that follow authoritarian patterns - because understanding history means recognizing it when it repeats.",
+  "home_page_url": "https://dontbeanazi.cutie.zone/",
+  "feed_url": "https://dontbeanazi.cutie.zone/",
+  "items": [{"date_published":"0001-01-01T00:00:00Z","id":"https://dontbeanazi.cutie.zone/surveillance/chat-control/","title":"EU Chat Control 2.0 (CSAR)","url":"https://dontbeanazi.cutie.zone/surveillance/chat-control/"},{"date_published":"0001-01-01T00:00:00Z","id":"https://dontbeanazi.cutie.zone/corporate/xai-memphis-pollution/","title":"xAI Colossus Data Center Pollution in Memphis (2024-Present)","url":"https://dontbeanazi.cutie.zone/corporate/xai-memphis-pollution/"},{"date_published":"0001-01-01T00:00:00Z","id":"https://dontbeanazi.cutie.zone/targeting-marginalized/ice-raids/","title":"Trump Administration ICE Raids (2025)","url":"https://dontbeanazi.cutie.zone/targeting-marginalized/ice-raids/"},{"date_published":"0001-01-01T00:00:00Z","id":"https://dontbeanazi.cutie.zone/atrocities/gaza-genocide/","title":"Gaza Genocide (2023-Present)","url":"https://dontbeanazi.cutie.zone/atrocities/gaza-genocide/"},{"date_published":"2025-12-15T00:00:00Z","id":"https://dontbeanazi.cutie.zone/about/","title":"About","url":"https://dontbeanazi.cutie.zone/about/"},{"date_published":"2025-12-15T00:00:00Z","id":"https://dontbeanazi.cutie.zone/contribute/","title":"Contribute","url":"https://dontbeanazi.cutie.zone/contribute/"}]
+}
