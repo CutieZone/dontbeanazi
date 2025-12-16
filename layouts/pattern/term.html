@@ -1,0 +1,95 @@
+{{- define "main" -}}
+
+{{- if not .IsHome | and .Title }}
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <div class="post-description">
+    {{ .Description | markdownify }}
+  </div>
+  {{- end }}
+</header>
+{{- end }}
+
+{{- if .Content }}
+<div class="post-content">
+  {{ .Content }}
+</div>
+{{- end }}
+
+{{- $singular := .Data.Singular }}
+{{- $termTitle := .Title }}
+
+<h2>Pages with this {{ singularize $singular }}</h2>
+
+{{- $matchingPages := slice }}
+{{- range .Site.RegularPages }}
+  {{- if isset .Params $singular }}
+    {{- $paramValue := index .Params $singular }}
+    {{- if reflect.IsSlice $paramValue }}
+      {{- range $paramValue }}
+        {{- if eq (lower .) (lower $termTitle) }}
+          {{- $matchingPages = $matchingPages | append . }}
+        {{- end }}
+      {{- end }}
+    {{- else }}
+      {{- if eq (lower $paramValue) (lower $termTitle) }}
+        {{- $matchingPages = $matchingPages | append . }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+{{- if $matchingPages }}
+<table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
+  <thead>
+    <tr style="border-bottom: 2px solid #333;">
+      <th style="text-align: left; padding: 10px; border-bottom: 2px solid #333;">Title</th>
+      <th style="text-align: left; padding: 10px; border-bottom: 2px solid #333;">Status</th>
+      <th style="text-align: left; padding: 10px; border-bottom: 2px solid #333;">Category</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{- range .Site.RegularPages }}
+      {{- $isMatch := false }}
+      {{- if isset .Params $singular }}
+        {{- $paramValue := index .Params $singular }}
+        {{- if reflect.IsSlice $paramValue }}
+          {{- range $paramValue }}
+            {{- if eq (lower .) (lower $termTitle) }}
+              {{- $isMatch = true }}
+            {{- end }}
+          {{- end }}
+        {{- else }}
+          {{- if eq (lower $paramValue) (lower $termTitle) }}
+            {{- $isMatch = true }}
+          {{- end }}
+        {{- end }}
+      {{- end }}
+      {{- if $isMatch }}
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 10px;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+      <td style="padding: 10px;">
+        {{- if .Params.status -}}
+          <code>{{ .Params.status }}</code>
+        {{- else -}}
+          —
+        {{- end -}}
+      </td>
+      <td style="padding: 10px;">
+        {{- if .Params.categories -}}
+          {{- delimit .Params.categories ", " -}}
+        {{- else -}}
+          —
+        {{- end -}}
+      </td>
+    </tr>
+      {{- end }}
+    {{- end }}
+  </tbody>
+</table>
+{{- else }}
+<p>No pages found with this {{ singularize $singular }}.</p>
+{{- end }}
+
+{{- end }}
