@@ -1,4 +1,5 @@
 name: Deploy Hugo to Pages
+permissions: write-all
 on:
   push:
     branches: [main]
